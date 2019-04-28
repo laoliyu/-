@@ -1,0 +1,46 @@
+/* pages/homepage/homepage.wxss */
+
+.homepage-container {
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff;
+}
+
+.homepage-body image {
+  /* width: 50%;
+  height: 50%; */
+  vertical-align: middle;
+  transform: scale(0.5);
+  display: table-cell;
+  text-align: center;
+}
+
+.homepage-ft {
+  position: absolute;
+  top: 80%;
+  margin-left: 25%;
+}
+
+.homepage-ft_hd image {
+  width: 50px;
+  height: 50px;
+}
+
+.homepage-ft_title {
+  position: relative;
+  top: -15px;
+  margin-left: 10px;
+  letter-spacing: 5px;
+  color: #54a26b;
+  font-size: 30px;
+  font-weight: 700;
+}
+.homepage-ft_bd{
+  top: 90%;
+  margin-left: 20%;
+}
+.homepage-ft_desc{
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 5px;
+}

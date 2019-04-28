@@ -1,0 +1,14 @@
+<view class="homepage-container">
+    <view class="homepage-body">
+        <image class="" src="../../images/home.jpg" />
+    </view>
+    <view class="homepage-ft">
+        <view class="homepage-ft_hd">
+            <image class="" src="../../images/home.jpg" />
+            <text class="homepage-ft_title">趣头条</text>
+        </view>
+        <view class="homepage-ft_bd">
+            <text class="homepage-ft_desc">让阅读更有价值</text>
+        </view>
+    </view>
+</view>
